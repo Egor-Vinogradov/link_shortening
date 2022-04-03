@@ -1,0 +1,8 @@
+{
+  "port": 5000,
+  "jwtSecret": "secretKey mern",
+  "mongoUri1": "mongodb://example-user:example-pass@host.docker.internal:27017/test?authSource=admin",
+  "mongoUri": "mongodb://localhost:27017",
+  "mongoUri2": "mongodb://localhost:27017/test",
+  "baseUrl": "http://localhost:5000"
+}
